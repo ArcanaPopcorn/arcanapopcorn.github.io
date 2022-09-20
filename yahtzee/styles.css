@@ -15,8 +15,8 @@
 body{
   background:#ffffff;
   font-family:sans-serif;
-  background-image: url('https://images.pexels.com/photos/172277/pexels-photo-172277.jpeg?auto=compress');
-  background-size: cover;
+  background-image: url('https://clipground.com/images/stately-home-clipart-10.jpg');
+  background-size: contain;
 }
 
 .container{
